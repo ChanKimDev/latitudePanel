@@ -2,3 +2,5 @@ Hello World 1000 + 3 = ?
 Today is 2022-09-23
 Tomorrow is 2022-09-24
 Yesterday is 2022-09-22
+
+I have change file from latituePanel.
